@@ -1,0 +1,7 @@
+pages\GoogleHomePage.class
+pages\WikiPage.class
+searchResults\SearchResultsPage.class
+searchResults\EverythingResultsPage.class
+basePage\PageObject.class
+searchResults\ImageResultsPage.class
+basePage\PageObject$1.class
